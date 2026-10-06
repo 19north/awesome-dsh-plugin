@@ -1,7 +1,7 @@
 url: https://github.com/19north/dsh-shot
 name: 19north/dsh-shot
 category: ui
-tarball: https://github.com/19north/dsh-shot/releases/download/v0.1.0/dsh-shot-0.1.0.tgz
+tarball: https://github.com/19north/dsh-shot/releases/download/v0.1.1/dsh-shot-0.1.1.tgz
 description:
   en: Composer screenshot control, with a camera button next to + offering direct capture or hide-this-window capture. The capture is box-selected and annotated (rectangle, arrow, text, eight colours) in an overlay inside the window and lands in the composer draft as an image attachment. Windows only.
   zh: 输入框截图控件：在 + 旁边加一个相机按钮，可选直接截图或隐藏本窗口截图。抓屏后在窗口内的浮层里框选并标注（红框、箭头、文字、8 色），图片以附件形式进入输入框草稿。仅支持 Windows。
